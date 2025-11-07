@@ -1,1 +1,1 @@
-python trading_bot.py
+python-3.11.6
